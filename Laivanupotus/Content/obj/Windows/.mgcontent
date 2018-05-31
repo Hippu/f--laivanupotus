@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Tiedostot/koodi/Laivanupotus/Laivanupotus/Content/Font.spritefont</File>
+    <File>D:/Tiedostot/koodi/Laivanupotus/Laivanupotus/Content/carrier.png</File>
+    <File>D:/Tiedostot/koodi/Laivanupotus/Laivanupotus/Content/battleship.png</File>
+    <File>D:/Tiedostot/koodi/Laivanupotus/Laivanupotus/Content/destroyer.png</File>
+    <File>D:/Tiedostot/koodi/Laivanupotus/Laivanupotus/Content/sub.png</File>
+    <File>D:/Tiedostot/koodi/Laivanupotus/Laivanupotus/Content/cruiser.png</File>
+    <File>D:/Tiedostot/koodi/Laivanupotus/Laivanupotus/Content/shot.png</File>
+    <File>D:/Tiedostot/koodi/Laivanupotus/Laivanupotus/Content/miss.png</File>
+  </SourceFiles>
+</SourceFileCollection>
